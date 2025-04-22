@@ -1,0 +1,7 @@
+MIT License
+
+Copyright (c) 2025 Astrotaca
+
+You can use, copy, change, share, or sell this code however you want, as long as you keep this license and copyright notice in it.
+
+The code comes as-is, with no guarantees. I'm not responsible if something goes wrong while using it.
