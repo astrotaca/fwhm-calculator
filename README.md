@@ -1,4 +1,4 @@
-# FWHM Calculator
+# Astro FWHM Analyzer – Measure Star Size for Deconvolution
 
 A Python application to calculate the Full Width at Half Maximum (FWHM) of stars in astronomical images (FITS or TIFF formats). It features a user-friendly GUI, interactive star selection, and adaptive image stretching for enhanced visualization, making it ideal for assessing telescope focus and image quality.
 
