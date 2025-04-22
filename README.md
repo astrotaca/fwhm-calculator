@@ -38,6 +38,7 @@ A Python application to calculate the Full Width at Half Maximum (FWHM) of stars
    ```bash
    python fwhm_calculator.py
    ```
+![Initial Window for Image Selection](images/FWHM1.jpg)
 
 2. **Steps**:
    - Click "Open Image" to select a FITS or TIFF file.
@@ -46,6 +47,8 @@ A Python application to calculate the Full Width at Half Maximum (FWHM) of stars
    - Check the Matplotlib plots for a visualization of the star and its fitted profile.
 
 **Tip**: Choose a bright, unsaturated star for accurate results.
+
+![Final FWHM Calculation Result](images/FWHM2.jpg)
 
 ## Dependencies
 
