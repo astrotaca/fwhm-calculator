@@ -4,7 +4,6 @@ A Python application to calculate the Full Width at Half Maximum (FWHM) of stars
 
 ## Features
 - Supports FITS (.fits, .fit, .fts) and TIFF (.tif, .tiff) images (8/16/32-bit)
-- Interactive star selection with zoom and automatic brightest star detection
 - Adaptive image stretching (linear, sqrt, log, asinh, histogram equalization)
 - 2D Gaussian fitting to measure FWHM in X and Y directions
 - Visualizes results with star position and zoomed-in star profile

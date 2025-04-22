@@ -4,4 +4,8 @@ Copyright (c) 2025 Astrotaca
 
 You can use, copy, change, share, or sell this code however you want, as long as you keep this license and copyright notice in it.
 
+<<<<<<< HEAD
 The code comes as-is, with no guarantees. I'm not responsible if something goes wrong while using it.
+=======
+The code comes as-is, with no guarantees. I'm not responsible if something goes wrong while using it.
+>>>>>>> 633763c4df3d530414b39399a55a40df42eef860
